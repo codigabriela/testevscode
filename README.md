@@ -87,5 +87,5 @@ atividade-js-menu-facens/
 
 ## 📎 Autor
 
-Desenvolvido por **André Vitor - ANDRECODEDEV** 👨‍💻  
+Desenvolvido por **Gabriela ** 👨‍💻  
 Turma: AS009TSN1  
